@@ -1,0 +1,6 @@
+lel=0
+for n in range (0,5):
+  n=int(input("Digite un numero"))
+  lel+=n
+  lul=lel/5
+print("La suma es:", lel,"El promedio es:",lul)
